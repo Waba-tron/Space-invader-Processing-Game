@@ -5,5 +5,5 @@ This is a my first year programming assignment. A dynamic space shooer, where yo
 # Installation
 First you would need to download processing, that link can be found at https://processing.org/download/
 
-# Running the programe
+# Running the programme
 Once processing is downloaded, unzip, open up any of the pde files and then click the arrow icon to play the game
