@@ -41,20 +41,20 @@ int Score = 0;
 void setup(){
   
    size(500,700);
-   spaceBackground = loadImage("backgroundSpace.png");
-   spaceShip = loadImage("PlayerShip.png");
-   alienPhase1 = loadImage("test.PNG");
-   alienPhase2 = loadImage("phase2.PNG");
-   bulletPhase1 = loadImage("sb3.png");
-   bulletPhase2 = loadImage("sb4.png");
-   sbPhase1 = loadImage("sb1.png");
-   sbPhase2 = loadImage("sb2.png");
-   explosion1 = loadImage("ex2.png");
-   explosion2 = loadImage("ex3.png");
-   sat1 = loadImage("Sat1.png");
-   sat2 = loadImage("Sat2.png");
-   sat3 = loadImage("Sat3.png");
-   sat4 = loadImage("Sat4.png");
+   spaceBackground = loadImage("sprite-images/backgroundSpace.png");
+   spaceShip = loadImage("sprite-images/PlayerShip.png");
+   alienPhase1 = loadImage("sprite-images/test.PNG");
+   alienPhase2 = loadImage("sprite-images/phase2.PNG");
+   bulletPhase1 = loadImage("sprite-images/sb3.png");
+   bulletPhase2 = loadImage("sprite-images/sb4.png");
+   sbPhase1 = loadImage("sprite-images/sb1.png");
+   sbPhase2 = loadImage("sprite-images/sb2.png");
+   explosion1 = loadImage("sprite-images/ex2.png");
+   explosion2 = loadImage("sprite-images/ex3.png");
+   sat1 = loadImage("sprite-images/Sat1.png");
+   sat2 = loadImage("sprite-images/Sat2.png");
+   sat3 = loadImage("sprite-images/Sat3.png");
+   sat4 = loadImage("sprite-images/Sat4.png");
    
    splashScreenObject = new SplashScreen();
    enermybubble = new ArrayList<EnermyBubble>();
